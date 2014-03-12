@@ -1,0 +1,35 @@
+ 
+{
+    "version": "1.0",
+    "name": "FireCubeTimer",
+    "description": "Timer para cubos",
+    "launch_path": "/cronometro.html",
+    "icons": {
+        "16": "/icono3.png",
+        "48": "/icono2.png",
+         "128": "/icono1.png"
+    },
+    "installs_allowed_from": [
+        "https://marketplace.firefox.com"
+  
+    ],
+
+    "developer": {
+        "name": "Jorge",
+        "url": "http://informatica-so-apps-yalgomas.blogspot.mx/"
+    },
+     
+    "locales": {
+        "en": {
+            "description": "FireCubeTimer - app timer para cubo rubik Dev - Jorge",
+            "developer": {
+                "name": "Jorge",
+                "url": "http://informatica-so-apps-yalgomas.blogspot.mx/"
+            }
+        }
+    },
+    "default_locale": "es",
+    "permissions": {     
+    },
+    "fullscreen": "true"
+}
